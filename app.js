@@ -1,7 +1,7 @@
 // local reviews data
 const reviews = [
   {
-    id: 1,
+    id: 1, 
     name: "susan smith",
     job: "web developer",
     img: "https://www.course-api.com/images/people/person-1.jpeg",
