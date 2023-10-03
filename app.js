@@ -38,22 +38,22 @@ const reviews = [
   
   {
     id: 6,
-    name: "Bhanu Singh",
-    job: "ML Engineer ",
+    name: "Akshay Aileni ",
+    job: "Freelancer",
     img: "https://pbs.twimg.com/profile_images/1701988886506008576/stHO9InY_400x400.jpg",
     text: "I am a ML Engineer. I actively engage as a Twitter creator, sharing my insights and expertise in the tech world. On Twitter, I connect with my audience, making me a prominent figure in the digital landscape."
   },
   {
     id: 7,
     name: "Kushal Sharma",
-    job: "CEO",
+    job: "Full-Stack",
     img: "https://pbs.twimg.com/profile_images/1702954891503902720/L4FK7zh9_400x400.jpg",
     text: "I am a Entrapenour. I actively engage as a Twitter creator, sharing my insights and expertise in the tech world. On Twitter, I connect with my audience, making me a prominent figure in the digital landscape."
   },
   {
     id: 8,
-    name: "Sikha Gupta",
-    job: "Backend Engineer",
+    name: "Bhanu Singh",
+    job: "Software Engineer",
     img: "./stHO9InY_400x400.jpg",
     text: "I am a web developer, passionate about studying machine learning. I actively engage as a Twitter creator, sharing my insights and expertise in the tech world. On Twitter, I connect with my audience, making me a prominent figure in the digital landscape."
   },
