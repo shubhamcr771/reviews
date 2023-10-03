@@ -41,21 +41,21 @@ const reviews = [
     name: "Akshay Aileni ",
     job: "Freelancer",
     img: "./B-Jd6yiz_400x400.jpg",
-    text: "I am a ML Engineer. I actively engage as a Twitter creator, sharing my insights and expertise in the tech world. On Twitter, I connect with my audience, making me a prominent figure in the digital landscape."
+    text: "I am a Freelancer. I actively engage as a Twitter creator, sharing my insights and expertise in the tech world. On Twitter, I connect with my audience, making me a prominent figure in the digital landscape."
   },
   {
     id: 7,
     name: "Kushal Sharma",
     job: "Full-Stack",
     img: "./L4FK7zh9_400x400.jpg",
-    text: "I am a Entrapenour. I actively engage as a Twitter creator, sharing my insights and expertise in the tech world. On Twitter, I connect with my audience, making me a prominent figure in the digital landscape."
+    text: "I am a Full-Stack Developer. I actively engage as a Twitter creator, sharing my insights and expertise in the tech world. On Twitter, I connect with my audience, making me a prominent figure in the digital landscape."
   },
   {
     id: 8,
     name: "Bhanu Singh",
     job: "Software Engineer",
     img: "./stHO9InY_400x400.jpg",
-    text: "I am a web developer, passionate about studying machine learning. I actively engage as a Twitter creator, sharing my insights and expertise in the tech world. On Twitter, I connect with my audience, making me a prominent figure in the digital landscape."
+    text: "I am a Software Engineer, passionate about studying machine learning. I actively engage as a Twitter creator, sharing my insights and expertise in the tech world. On Twitter, I connect with my audience, making me a prominent figure in the digital landscape."
   },
 
 
