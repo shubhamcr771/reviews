@@ -40,7 +40,7 @@ const reviews = [
     id: 6,
     name: "Akshay Aileni ",
     job: "Freelancer",
-    img: "https://pbs.twimg.com/profile_images/1701988886506008576/stHO9InY_400x400.jpg",
+    img: "./B-Jd6yiz_400x400.jpg",
     text: "I am a ML Engineer. I actively engage as a Twitter creator, sharing my insights and expertise in the tech world. On Twitter, I connect with my audience, making me a prominent figure in the digital landscape."
   },
   {
