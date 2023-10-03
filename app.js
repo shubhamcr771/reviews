@@ -47,7 +47,7 @@ const reviews = [
     id: 7,
     name: "Kushal Sharma",
     job: "Full-Stack",
-    img: "https://pbs.twimg.com/profile_images/1702954891503902720/L4FK7zh9_400x400.jpg",
+    img: "./L4FK7zh9_400x400.jpg",
     text: "I am a Entrapenour. I actively engage as a Twitter creator, sharing my insights and expertise in the tech world. On Twitter, I connect with my audience, making me a prominent figure in the digital landscape."
   },
   {
