@@ -14,22 +14,10 @@ const reviews = [
     img: "https://www.course-api.com/images/people/person-1.jpeg",
     text: "I'm baby meggings twee health goth +1. Bicycle rights tumeric chartreuse before they sold out chambray pop-up. Shaman humblebrag pickled coloring book salvia hoodie, cold-pressed four dollar toast everyday carry",
   },
+  
+  
   {
     id: 3,
-    name: "anna johnson",
-    job: "web designer",
-    img: "https://www.course-api.com/images/people/person-2.jpeg",
-    text: "Helvetica artisan kinfolk thundercats lumbersexual blue bottle. Disrupt glossier gastropub deep v vice franzen hell of brooklyn twee enamel pin fashion axe.photo booth jean shorts artisan narwhal.",
-  },
-  {
-    id: 4,
-    name: "peter jones",
-    job: "intern",
-    img: "https://www.course-api.com/images/people/person-4.jpeg",
-    text: "Sriracha literally flexitarian irony, vape marfa unicorn. Glossier tattooed 8-bit, fixie waistcoat offal activated charcoal slow-carb marfa hell of pabst raclette post-ironic jianbing swag.",
-  },
-  {
-    id: 5,
     name: "bill anderson",
     job: "the boss",
     img: "https://www.course-api.com/images/people/person-3.jpeg",
@@ -37,18 +25,32 @@ const reviews = [
   },
   
   {
-    id: 6,
+    id: 4,
     name: "Akshay Aileni ",
     job: "Freelancer",
     img: "./B-Jd6yiz_400x400.jpg",
     text: "I am a Freelancer. I actively engage as a Twitter creator, sharing my insights and expertise in the tech world. On Twitter, I connect with my audience, making me a prominent figure in the digital landscape."
   },
   {
-    id: 7,
+    id: 5,
+    name: "peter jones",
+    job: "intern",
+    img: "https://www.course-api.com/images/people/person-4.jpeg",
+    text: "Sriracha literally flexitarian irony, vape marfa unicorn. Glossier tattooed 8-bit, fixie waistcoat offal activated charcoal slow-carb marfa hell of pabst raclette post-ironic jianbing swag.",
+  },
+  {
+    id: 6,
     name: "Kushal Sharma",
     job: "Full-Stack",
     img: "./L4FK7zh9_400x400.jpg",
     text: "I am a Full-Stack Developer. I actively engage as a Twitter creator, sharing my insights and expertise in the tech world. On Twitter, I connect with my audience, making me a prominent figure in the digital landscape."
+  },
+  {
+    id: 7,
+    name: "anna johnson",
+    job: "web designer",
+    img: "https://www.course-api.com/images/people/person-2.jpeg",
+    text: "Helvetica artisan kinfolk thundercats lumbersexual blue bottle. Disrupt glossier gastropub deep v vice franzen hell of brooklyn twee enamel pin fashion axe.photo booth jean shorts artisan narwhal.",
   },
   {
     id: 8,
